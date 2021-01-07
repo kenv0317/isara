@@ -44,7 +44,7 @@ header {
 }
 
 .section1 {
-    background-image: url("../img/mainsp.jpg");
+    background-image: url("mainsp.jpg");
     background-size: cover;
     height:270px;
 }
@@ -156,7 +156,7 @@ header {
 
 
 .section4 {
-    background-image: url(../img/images.jpg);
+    background-image: url(images.jpg);
     background-size: cover;
     height:600px;
 }
@@ -217,7 +217,7 @@ header {
 }
 
 .section8 {
-    background-image: url(../img/nvjergbuegn.jpg);
+    background-image: url(nvjergbuegn.jpg);
     background-size: cover;
 }
 .section8 .radius {
@@ -273,7 +273,7 @@ header {
 }
 
 .learn {
-    background-image: url("../img/images.jpg");
+    background-image: url("images.jpg");
     background-size: cover;
     height:1100px;
 }
@@ -289,7 +289,7 @@ header {
 }
 
 .whybankoku {
-    background-image: url("../img/91d1f957da808d0074d6e204b5d065ed.png");
+    background-image: url("91d1f957da808d0074d6e204b5d065ed.png");
     background-size: cover;
 }
 .whybankoku h2 {
@@ -335,7 +335,7 @@ header {
 }
 
 .section13 {
-    background-image: url("../img/PAK85_MBAdesagyou20140312_TP_V-1024x622.jpg");
+    background-image: url("PAK85_MBAdesagyou20140312_TP_V-1024x622.jpg");
     background-size: cover;
     padding:38px;
 }
@@ -670,9 +670,7 @@ footer .sns button {
     .whybankoku br {
         display: block;
     }
-    .section12 {
-
-    }
+    
     .section12 h2 {
         font-size:25px;
     }
